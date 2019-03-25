@@ -1,0 +1,38 @@
+{
+  "name": "JakBelajar.com",
+  "short_name": "JakBelajar",
+  "start_url": "https://www.jakbelajar.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Blog yang membahas tentang IT, Pendidikan IPA, dan Edukasi.",
+  "icons": [{
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-mgyvDAdkDUg/XJj4QKu6OqI/AAAAAAAAdMs/XsrDokpLXtsMcOO_ZSsCFZDmpeKBk_5rgCLcBGAs/s1600/Logo%2BJak%2Bbelajar%2B192x192.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-mgyvDAdkDUg/XJj4QKu6OqI/AAAAAAAAdMs/XsrDokpLXtsMcOO_ZSsCFZDmpeKBk_5rgCLcBGAs/s1600/Logo%2BJak%2Bbelajar%2B192x192.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-mgyvDAdkDUg/XJj4QKu6OqI/AAAAAAAAdMs/XsrDokpLXtsMcOO_ZSsCFZDmpeKBk_5rgCLcBGAs/s1600/Logo%2BJak%2Bbelajar%2B192x192.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-mgyvDAdkDUg/XJj4QKu6OqI/AAAAAAAAdMs/XsrDokpLXtsMcOO_ZSsCFZDmpeKBk_5rgCLcBGAs/s1600/Logo%2BJak%2Bbelajar%2B192x192.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-mgyvDAdkDUg/XJj4QKu6OqI/AAAAAAAAdMs/XsrDokpLXtsMcOO_ZSsCFZDmpeKBk_5rgCLcBGAs/s1600/Logo%2BJak%2Bbelajar%2B192x192.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-mgyvDAdkDUg/XJj4QKu6OqI/AAAAAAAAdMs/XsrDokpLXtsMcOO_ZSsCFZDmpeKBk_5rgCLcBGAs/s1600/Logo%2BJak%2Bbelajar%2B192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/4.bp.blogspot.com/-uSI21hzDZhY/XJjxjkA-jAI/AAAAAAAAdMQ/-QD-8SyEAsI6OoDkRC6h4NjYgeIsPUNxwCLcBGAs/s1600/Logo%2BJak%2Bbelajar2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
